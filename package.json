@@ -1,0 +1,10 @@
+{
+  "name": "MMM-DailyMetArt",
+  "version": "1.0.1",
+  "description": "Daily artwork from The Met Collection API for MagicMirror²",
+  "author": "Ercan",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
