@@ -6,6 +6,8 @@
 
 A beautiful MagicMirror² module that displays daily artwork from The Metropolitan Museum of Art's public collection. Transform your mirror into a digital art gallery that showcases masterpieces from one of the world's most prestigious museums.
 
+![Screenshot](./screenshot.png)
+
 ## ✨ Features
 
 - **🎨 Daily Artwork**: Automatically fetches and displays a new piece of art each day
