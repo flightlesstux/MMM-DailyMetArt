@@ -228,6 +228,10 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+### Releasing
+
+Versions follow [Semantic Versioning](https://semver.org/). Bump `package.json` with `npm version patch|minor|major --no-git-tag-version`, commit, and push to `main`; the Release workflow tags `vX.Y.Z` and publishes the GitHub release.
+
 ### Code Style
 
 - Follow existing code formatting
