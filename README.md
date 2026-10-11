@@ -169,7 +169,7 @@ The module supports four different layout configurations:
 ### API Integration
 
 This module integrates with The Metropolitan Museum of Art's [Collection API](https://metmuseum.github.io/), specifically:
-- **Search Endpoint**: `/public/collection/v1/search`
+- **Search Endpoint**: `/public/collection/v1.1/search` (paginated; `v1/search` was retired on 2026-10-01)
 - **Object Details**: `/public/collection/v1/objects/{id}`
 
 ### Rate Limiting
